@@ -31,3 +31,9 @@ Você pode testar a aplicação diretamente no seu navegador através do link ab
 ---
 **Fábio Andrade**
 *Unindo 20 anos de visão de processos com desenvolvimento moderno.*
+
+---
+### 📖 Notas Técnicas
+- **O que é Manipulação de DOM?** É a capacidade do código de alterar o conteúdo da página em tempo real.
+- **O que é Acessibilidade (ARIA)?** É garantir que pessoas com deficiência visual consigam usar a aplicação através de leitores de tela.
+- **O que é Validação?** São regras de segurança que impedem a entrada de dados incorretos ou duplicados.
