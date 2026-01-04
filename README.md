@@ -225,13 +225,13 @@ Este projeto me permitiu praticar e consolidar conhecimentos em:
 
 ## 🤖 Declaração de Uso de IA
 
-Este projeto foi desenvolvido com auxílio de **Inteligência Artificial (Claude - Anthropic)** como ferramenta de apoio.
+Este projeto foi desenvolvido com auxílio de **Inteligência Artificial (IA)** como ferramenta de apoio.
 
 ### Escopo do Uso
 
 | Aspecto | Descrição |
 |---------|-----------|
-| **Ferramenta** | Claude (Anthropic) |
+| **Ferramenta** | Chat GPT (Open AI) |
 | **Uso** | Revisão de código, boas práticas, documentação |
 | **Responsabilidade** | Toda lógica e implementação são do autor |
 | **Validação** | Código compreendido e testado antes do uso |
@@ -268,7 +268,7 @@ Este projeto foi desenvolvido com auxílio de **Inteligência Artificial (Claude
   </tr>
 </table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioandradegf/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedrads)
 
 **Programa:** Oracle Next Education (ONE) + Alura  
